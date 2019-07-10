@@ -11,12 +11,7 @@
 **动漫君**
 
 # instagram   
-<img align="right" src="ins.jpg"/>
 
-
-**instagram** 
-
-[@dongmanjun](https://www.instagram.com/dongmanjun/)
-
+<a href="https://www.instagram.com/dongmanjun/"><img src="ins.jpg" width="100" height="100"></a>
 
 # =©动漫君=
