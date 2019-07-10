@@ -14,7 +14,9 @@
 <img align="right" src="ins.jpg"/>
 
 
-**instagram** [@dongmanjun](https://www.instagram.com/dongmanjun/)
+**instagram** 
+
+[@dongmanjun](https://www.instagram.com/dongmanjun/)
 
 
 # =©动漫君=
