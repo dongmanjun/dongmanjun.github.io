@@ -14,4 +14,4 @@
 # instagram @dongmanjun
 [instagram](https://www.instagram.com/dongmanjun/)
 
-# [©动漫君]
+# =©动漫君=
