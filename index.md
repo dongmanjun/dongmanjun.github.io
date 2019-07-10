@@ -8,9 +8,8 @@
 # Name
 **动漫君**
 
-[h]动漫[/h]
 
 ## instagram
 @dongmanjun
 
-### [动漫君](https://dongmanjun.github.io)
+### [©动漫君](https://dongmanjun.github.io)
