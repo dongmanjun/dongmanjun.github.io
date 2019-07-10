@@ -1,8 +1,6 @@
-## Welcome to My Pages <img align="right" src="./image/Tony.jpeg"/>
+**动漫君**
 
-动漫君
-
-## Welcome to 动漫君 Pages
+## Welcome to 动漫君 Pages  <img align="right" src="./image/Tony.jpeg"/>
 
 新浪微博  [weibo](https://wwww.weibo.com/)
 
