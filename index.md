@@ -1,4 +1,4 @@
-**动漫君**
+**动漫君欢迎您**
 
 ## Welcome to 动漫君 Pages  <img align="right" src="529710224727080979.gif"/>
 
