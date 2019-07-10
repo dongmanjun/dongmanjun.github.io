@@ -5,10 +5,10 @@
 
 哔哩哔哩  [bilibili](https://bilibili.com)
 
-# [动漫君](https://dongmanjun.github.io)
-
-## Name 
+**# Name **
 动漫君
 
-### instagram
+## instagram
 @dongmanjun
+
+### [动漫君](https://dongmanjun.github.io)
