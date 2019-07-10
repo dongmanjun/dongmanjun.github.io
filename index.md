@@ -10,7 +10,7 @@
 # Name
 **动漫君**
 
-# 图片分享
+# 图片  <img align="right" src="ins.jpg"/>
 **instagram** [@dongmanjun](https://www.instagram.com/dongmanjun/)
 
 # =©动漫君=
