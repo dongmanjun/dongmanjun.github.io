@@ -1,4 +1,4 @@
-# Welcome to My Pages 
+# Welcome
 **动漫君欢迎您 ！！！**  <img align="right" src="529710224727080979.gif"/>
 
 <img src="weibo.png" width="20" height="20"> **新浪微博**    [@动漫风信子](https://weibo.com/3991135975)
@@ -34,6 +34,6 @@ About
 
 
 
-# Thank you for looking.
+### Thank you for looking.
 
 # ©动漫君
