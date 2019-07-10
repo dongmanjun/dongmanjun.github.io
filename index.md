@@ -4,4 +4,4 @@
 
 新浪微博  [weibo](https://wwww.weibo.com/)
 
-哔哩哔哩 [https://wwww.bilibili.com/](https://wwww.bilibili.com/) 
+哔哩哔哩 [bilibili](https://wwww.bilibili.com/) 
