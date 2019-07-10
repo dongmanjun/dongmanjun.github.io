@@ -20,15 +20,13 @@ About
 <a href="https://www.instagram.com/dongmanjun/"><img src="ins.jpg" width="160" height="160"></a>
 
 
-温馨提示：点击图片即可显示我的Instagram地址
+### 温馨提示:点击图片即可显示我的Instagram地址
 
-
-=本网页为Deom版=
 
 
 \由于博主知识有限 还要学习更多的知识和代码源/
 
-
+                =本网页为Deom版=
 
 /后续会有更多的丰富内容 敬请期待 感谢您的观看\
 
