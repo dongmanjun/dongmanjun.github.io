@@ -7,12 +7,10 @@
 哔哩哔哩  [bilibili](https://bilibili.com)
 
 #
-# https://dongmanjun.github.io/
+# [动漫君](https://dongmanjun.github.io)
 #
 
 # Name 
 name: 动漫君
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-instagram:dongmanjun
+# instagram:@dongmanjun
