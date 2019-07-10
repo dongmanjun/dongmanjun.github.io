@@ -10,6 +10,6 @@
 
 
 ## instagram @dongmanjun
-instagram  [instagram](https://www.instagram.com/dongmanjun/)
+[instagram](https://www.instagram.com/dongmanjun/)
 
 ### [©动漫君](https://dongmanjun.github.io)
