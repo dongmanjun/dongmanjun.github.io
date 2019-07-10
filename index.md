@@ -7,9 +7,9 @@
 
 # Name
 **动漫君**
+https://www.instagram.com/dongmanjun/
 
-
-## instagram
-@dongmanjun
+## instagram @dongmanjun
+instagram  [instagram](https://www.instagram.com/dongmanjun/)
 
 ### [©动漫君](https://dongmanjun.github.io)
