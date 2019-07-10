@@ -5,8 +5,8 @@
 
 哔哩哔哩  [bilibili](https://bilibili.com)
 
-**# Name **
-动漫君
+# Name
+**动漫君
 
 ## instagram
 @dongmanjun
