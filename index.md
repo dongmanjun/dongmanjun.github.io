@@ -16,4 +16,8 @@
 
 **instagram** [@dongmanjun](https://www.instagram.com/dongmanjun/)
 
+# video
+
+<img align="right" src="花猫探长.mp4"/>
+
 # =©动漫君=
