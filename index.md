@@ -1,5 +1,16 @@
 # Welcome
+
 **动漫君欢迎您 ！！！**  <img align="right" src="529710224727080979.gif"/>
+
+About
+-
+#### 名字:**动漫君**
+###  来自:<img src="China.png" width="20" height="20"> 
+
+###  喜欢:<img src="招财猫.png" width="20" height="20"> 
+
+
+### 国内访贴：
 
 <img src="weibo.png" width="20" height="20"> **新浪微博**    [@动漫风信子](https://weibo.com/3991135975)
 
@@ -7,22 +18,22 @@
 
 <img src="网易云音乐.png" width="20" height="20"> **网易云音乐**  [@动漫风信子](https://music.163.com/#/user/home?id=406836144)
 
-Name
--
-**动漫君**
+### 国外访贴：
 
-About
--
-专注于动漫 漫画 二次元领域 集一身的博主
+<img src="instagram.png" width="20" height="20"> **instagram**  [instagram](https://https://www.instagram.com/dongmanjun/)
 
-# instagram   
+#### 分享链接：
+<img src="youtube.png" width="20" height="20"> **YouTube**  [YouTube](https://www.youtube.com)
 
-<a href="https://www.instagram.com/dongmanjun/"><img src="ins.jpg" width="160" height="160"></a>
+<img src="Facebook.png" width="20" height="20"> **Facebook**  [Facebook](https://www.facebook.com)
 
+<img src="spotify.png" width="20" height="20"> **Spotify**  [Spotify](https://accounts.spotify.com/en/login/?continue=https:%2F%2Fwww.spotify.com%2Fint%2Faccount%2Foverview%2F&_locale=int)
 
-### 温馨提示:点击图片即可显示我的Instagram地址
+<img src="twitter.png" width="20" height="20"> **Twitter**  [Twitter](https://www.twitter.com)
 
+<img src="discord.png" width="20" height="20"> **Discord**  [Discord](https://discordapp.com/login)
 
+<img src="github.png" width="20" height="20"> **Github**  [Github](https://github.com/login)
 
 \由于博主知识有限 还要学习更多的知识和代码源/
 
@@ -30,6 +41,7 @@ About
 
 /后续会有更多的丰富内容 敬请期待 感谢您的观看\
 
+<a href="https://https://dongmanjun.github.io/"><img src="太空.png" width="200" height="150"></a>
 
 
 ### Thank you for looking.
